@@ -115,7 +115,7 @@
 <br />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/trietnguyen2611/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=trietnguyen2611&style=for-the-badge&color=000000&label=VISITORS" alt="Visitor Count" />
   <br />
   <br />
   <p><sub>Designed by Triet Nguyen</sub></p>
