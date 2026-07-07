@@ -1,9 +1,9 @@
 <div align="center">
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=48&pause=1000&color=1C1E21&center=true&vCenter=true&width=800&height=100&lines=Triet+Nguyen;Software+Engineer;Built+for+the+future." alt="Hero Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=48&pause=1000&color=1C1E21&center=true&vCenter=true&width=800&height=100&lines=Triet+Nguyen;Software+Engineer; AI Engineer; DATA Engineer;UI/UX Engineer;Built+for+the+future." alt="Hero Text" />
   <br />
   <p>
-    <b>Meta-design-inspired developer profile. Clean, performant, and typography-first.</b>
+    <b>SOFTWARE - DATA - AI - UI - UX ENGINEER</b>
   </p>
   <br />
   <a href="https://github.com/trietnguyen2611">
@@ -118,5 +118,5 @@
   <img src="https://profile-counter.glitch.me/trietnguyen2611/count.svg" alt="Visitor Count" />
   <br />
   <br />
-  <p><sub>© Meta-inspired Design Profile</sub></p>
+  <p><sub>Designed by Triet Nguyen</sub></p>
 </div>
