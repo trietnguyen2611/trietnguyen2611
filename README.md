@@ -31,11 +31,6 @@
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
-
 <!-- Footer -->
 
 <div align="center">
