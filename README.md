@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=48&pause=1000&color=1C1E21&center=true&vCenter=true&width=800&height=100&lines=Triet+Nguyen;Minimalism;Built+for+the+future." alt="Hero Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=48&pause=1000&color=1C1E21&center=true&vCenter=true&width=800&height=100&lines=Triet+Nguyen;Minimalism+Thinking;Built+For+Intelligence" alt="Hero Text" />
   <br />
   <p>
     <b>SOFTWARE - DATA - AI - UI - UX ENGINEER</b>
